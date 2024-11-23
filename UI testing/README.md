@@ -147,7 +147,7 @@
    ![Screenshot 4_Invalid_Title_Write&Post](Screenshots/discussion_Fail_IncalidTitle_Write/4_Invalid_Title_Write&Post.png)
 7. ตรวจสอบข้อความข้อผิดพลาด:
    - "The title field is required."
-   ![Screenshot 5_Alert_title_field&Post](Screenshots/discussion_Fail_IncalidTitle_Write/5_Alert_title_field&Post.png)
+   ![Screenshot 5_Alert_title_field](Screenshots/discussion_Fail_IncalidTitle_Write/5_Alert_title_field.png)
 8. ปิดเบราว์เซอร์
 
 ---
