@@ -223,7 +223,7 @@
 4. คลิกปุ่ม **Submit**
 5. รอข้อความข้อผิดพลาด:
    - "Your login details were incorrect."
-   ![Screenshot 3_Login_Successful](Screenshots/login_Fail/3_Login_Successful.png)
+   ![Screenshot 3_Login_Fail](Screenshots/login_Fail/3_Login_Fail.png)
 6. ปิดเบราว์เซอร์
 
 ---
