@@ -124,7 +124,7 @@
 5. คลิกปุ่ม **"Post Discussion"**
    ![Screenshot 3_Invalid_All&Post](Screenshots/discussion_Fail_IncalidAll/3_Invalid_All&Post.png)
 6. รอให้ข้อความแสดงผลข้อผิดพลาด (เช่น "กรุณาเลือกแท็ก")
-   ![Screenshot 4_Tag_Selected&Post](Screenshots/discussion_Fail_IncalidAll/4_Tag_Selected&Post.png)
+   ![Screenshot 4_Tag_Selected](Screenshots/discussion_Fail_IncalidAll/4_Tag_Selected.png)
 7. ปิดเบราว์เซอร์
 
 ---
