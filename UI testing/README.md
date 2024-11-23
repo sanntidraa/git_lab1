@@ -183,7 +183,7 @@
 **Steps**:
 1. เปิดเว็บเบราว์เซอร์และเข้าหน้า URL [http://45.136.236.146:8081/](http://45.136.236.146:8081/)
 2. คลิกปุ่ม **"Log In"**!
-   [Screenshot 1_Click_Login](Screenshots/login_Pass_username/1_Click_Login.png)
+   ![Screenshot 1_Click_Login](Screenshots/login_Pass_username/1_Click_Login.png)
 3. รอให้ฟิลด์กรอกข้อมูล `identification` ปรากฏ
 4. กรอก **username** และ **password** ที่ถูกต้อง
    ![Screenshot 2_Login_Entered](Screenshots/login_Pass_username/2_Login_Entered.png)
